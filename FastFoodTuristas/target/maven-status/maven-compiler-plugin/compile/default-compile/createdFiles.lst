@@ -1,0 +1,9 @@
+Vista\FrmPedidos.class
+Vista\FrmRegistroCliente.class
+Modelo\Pedido.class
+Modelo\Cliente.class
+Vista\FrmPrincipal.class
+Modelo\EstadoPedido.class
+Modelo\Producto.class
+Modelo\Persona.class
+com\mycompany\fastfoodturistas\FastFoodTuristas.class
