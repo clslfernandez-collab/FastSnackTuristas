@@ -1,4 +1,4 @@
-# FastSnack - Sistema de Comida Rapida
+# FastSnack - Sistema de Comida Rapida - Grupo: Las Turistas
 
 Aplicacion de escritorio desarrollada en **Java (Swing)** con conexion a base de datos **MySQL**, para la gestion de un local de comida rapida. Permite el registro e inicio de sesion de clientes y empleados, la realizacion de pedidos desde un menu interactivo, y la administracion mediante un panel para empleados.
 
